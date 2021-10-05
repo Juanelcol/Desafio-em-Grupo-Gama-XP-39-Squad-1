@@ -6,4 +6,4 @@ Integrantes:
 
 Juan Pablo Rodicio
 Caio Noboa
-Thyson MS
+Thyson Moreira
